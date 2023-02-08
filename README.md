@@ -1,3 +1,8 @@
+<img src="Images/Image%20for%20Github%20Readme.png" alt="VRD" width="1250" height="510" usemap="#map0">
+  <map name="map0">
+    <area shape="rectangle" coords="7, 10, 1250, 510" href="in/vinayak-rao-dikshit-199657245">
+  </map>
+
 ### Hi there 👋
 
 <!--
