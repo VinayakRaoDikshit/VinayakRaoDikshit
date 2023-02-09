@@ -3,7 +3,7 @@
     <area shape="rectangle" coords="7, 10, 1250, 510" href="in/vinayak-rao-dikshit-199657245">
   </map> -->
 
-<a href="in/vinayak-rao-dikshit-199657245"><img width="1250" height="510" alt="VRDs Youtube" title="VRDs Profile" src="Images/Image%20for%20Github%20Readme.png"/></a> 
+<a href="in/vinayak-rao-dikshit-199657245"><img width="1250" height="510" alt="VRDs Youtube" title="VRDs Profile" src="in/vinayak-rao-dikshit-199657245"/></a> 
  
 <p align="center">
   <a href=""><img width="32px" alt="Discord" title="Discord" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSya3aliv7OzUbxHSf_OrK7SCEH4MShJzMQYSxW1r0WA&s"/></a>
