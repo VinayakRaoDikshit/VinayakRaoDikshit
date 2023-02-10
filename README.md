@@ -24,11 +24,8 @@
   
 I am an aspiring computer science engineer, currently in my prefinal year. I have a vehement passion to customise and tinker with technology be it software or hardware :monocle_face:. Always on the voyage to explore :surfing_man: new stuff in the Science and Technology domain. Looking forward to add value :smile: and give back to the community here on GitHub :v:. 
   
-<details>
-<summary> More about me :man_technologist: </summary>
+More about me :man_technologist: ......  
 
-  
-<p>&nbsp; <p>
 <img alt="gold" title="coin" src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.gif" width="25"> I am presently studying Deep Learning :chart_with_upwards_trend:.
   
 <img alt="gold" title="coin" src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.gif" width="25"> I have an interest in writing blogs. My aim is to increase my consistency by publishing :bookmark_tabs: more in the future.
@@ -37,7 +34,7 @@ I am an aspiring computer science engineer, currently in my prefinal year. I hav
   
 <img alt="gold" title="coin" src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.gif" width="25"> Wanna play some duos ? Catch me playing Fortnite :joystick: @ *VRDPumpkinLemons*.  
  
-</details>
+
 
 
  
