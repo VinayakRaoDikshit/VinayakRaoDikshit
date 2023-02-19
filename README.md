@@ -1,7 +1,4 @@
-<!-- <img src="Images/Image%20for%20Github%20Readme.png" alt="VRD" width="1250" height="510" usemap="#map0">
-  <map name="map0">
-    <area shape="rectangle" coords="7, 10, 1250, 510" href="in/vinayak-rao-dikshit-199657245">
-  </map> -->
+<!-- Shree Ganeshay Namah ! -->
 
 <a href="https://www.linkedin.com/in/vinayak-rao-dikshit-199657245"><img width="1250" height="510" alt="VRDS prof" title="VRDs Profile" src="Images/Image%20for%20Github%20Readme.png"/></a> 
  
@@ -36,12 +33,33 @@ More about me :man_technologist: ......
 
 <br/>
 
+  <h2>Github stats</h2>
+  
+  <a href="https://github.com/VinayakRaoDikshit"><img width=50% title="Overall Stats" alt="Github stat card" src="https://github-readme-stats.vercel.app/api?username=VinayakRaoDikshit&showicons=true&theme=transparent&title_color=680aff&text_color=fffb00&border_color=fffb00&bg_color=141321&border_radius=3.5"></a>
+  
+ <a href="https://github.com/VinayakRaoDikshit"><img width=50% title="Commit stats" alt="Commit Stat card" src="https://streak-stats.demolab.com/?user=VinayakRaoDikshit&hide_border=false&border=fffb00&background=141321&fire=fffb00&sideNums=fffb00&stroke=fffb00&dates=fffb00&currStreakNum=fffb00&ring=680aff&currStreakLabel=680aff&sideLabels=680aff"></a> 
  
- [![VRD's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinayakRaoDikshit&showicons=true&theme=transparent&title_color=680aff&text_color=fffb00&border_color=fffb00&bg_color=141321&border_radius=3)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
  
+
+
+
+
+
+
+
+
+
+
+
+<!-- Hello future me, these points are gonna help for your confusions:
+
+      1. The fine lines after "Greetings" and "Github Stats" are coming because of H1 and H2 tags...won't come after H3 and beyond. I haven't found an alternative            for them.......yet :p
+      2. Markdown codes in case the ned arises:
+         
+         [![VRD's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinayakRaoDikshit&showicons=true&theme=transparent&title_color=680aff&text_color=fffb00&border_color=fffb00&bg_color=141321&border_radius=3.5)](https://github.com/VinayakRaoDikshit)
+
+          <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=VinayakRaoDikshit&hide_border=false&border=fffb00&background=141321&fire=fffb00&sideNums=fffb00&stroke=fffb00&dates=fffb00&currStreakNum=fffb00&ring=680aff&currStreakLabel=680aff&sideLabels=680aff)](https://github.com/VinayakRaoDikshit)
+-->
 
 
 
