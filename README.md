@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/vinayak-rao-dikshit-199657245"><img width="1250" height="510" alt="VRDS prof" title="VRDs Profile" src="Images/Image%20for%20Github%20Readme.png"/></a> 
  
 <p align="center">
-  <a href=""><img width="32px" alt="Discord" title="Discord" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSya3aliv7OzUbxHSf_OrK7SCEH4MShJzMQYSxW1r0WA&s"/></a>
+  <a href="https://discordapp.com/users/760758770400886796"><img width="32px" alt="Discord" title="Discord" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSya3aliv7OzUbxHSf_OrK7SCEH4MShJzMQYSxW1r0WA&s"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;<!-- for spacing between icons -->
   <a href="https://www.youtube.com/@VinayakRaoDikshit"><img width="32px" alt="VRDs Youtube" title="Youtube" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR42_wiTV0PcPl364ctHgFPr0eqWGujaM5DCaJe0XmVA&s"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
