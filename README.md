@@ -34,7 +34,7 @@ More about me :man_technologist: ......
 <br/>
 
   <h2>Github stats</h2>
-<img align="right" width=38% alt="VRDS sticker pack" title="Stickers yayy !" src="Images/Stickers%20for%20Github%20readme.png">
+<img align="right" width=45% alt="VRDS sticker pack" title="Stickers yayy !" src="Images/Stickers_for_Github_readme.png">
 
   <a href="https://github.com/VinayakRaoDikshit"><img width=50% title="Overall Stats" alt="Github stat card" src="https://github-readme-stats.vercel.app/api?username=VinayakRaoDikshit&showicons=true&theme=transparent&title_color=680aff&text_color=fffb00&border_color=fffb00&bg_color=141321&border_radius=3.5"></a>
   
