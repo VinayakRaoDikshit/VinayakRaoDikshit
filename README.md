@@ -1,6 +1,6 @@
 <!-- Shree Ganeshay Namah ! -->
 
-<a href="https://www.linkedin.com/in/vinayak-rao-dikshit-199657245"><img width="1250" height="510" alt="VRDS prof" title="VRDs Profile" src="Images/Image%20for%20Github%20Readme.png"/></a> 
+<a href="https://www.linkedin.com/in/vinayak-rao-dikshit-199657245"><img width="1250" height="510" alt="VRDS prof" title="VRDs Profile" src="Images/Image_for _Github_ Readme.png"/></a> 
  
 <p align="center">
   <a href="https://discordapp.com/users/760758770400886796"><img width="32px" alt="Discord" title="Discord" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSya3aliv7OzUbxHSf_OrK7SCEH4MShJzMQYSxW1r0WA&s"/></a>
@@ -11,7 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://teamtrees.org/"><img width="32px" alt="Donate" title="Buy me a coffee :P" src="https://img.freepik.com/free-icon/tea_318-614737.jpg"/></a>
   <H1 align="center"> Greetings ! 👋</H1> 
-<!--   <H2 align="center"><img width="100" alt="counter" title="Viewer counter" src="https://visitor-badge.glitch.me/badge?page_id=VinayakRaoDikshit.visitor-badge&left_text=Visitor%20No."></H2> -->
+  <H3 align="center"><img width="100" alt="counter" title="Viewer counter" src="https://visitor-badge.glitch.me/badge?page_id=VinayakRaoDikshit.visitor-badge&left_text=Visitor%20No."></H3>
   
 <!--   ![visitor badge]() -->
 
