@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://teamtrees.org/"><img width="32px" alt="Donate" title="Buy me a coffee :P" src="https://img.freepik.com/free-icon/tea_318-614737.jpg"/></a>
   <H1 align="center"> Greetings ! 👋</H1> 
-  <H3 align="center"><img width="100" alt="counter" title="Viewer counter" src="https://visitor-badge.glitch.me/badge?page_id=VinayakRaoDikshit.visitor-badge&left_text=Visitor%20No."></H3>
+<!--   <H3 align="center"><img width="100" alt="counter" title="Viewer counter" src="https://visitor-badge.glitch.me/badge?page_id=VinayakRaoDikshit.visitor-badge&left_text=Visitor%20No."></H3> -->
   
 <!--   ![visitor badge]() -->
 
@@ -37,7 +37,7 @@ More about me :man_technologist: ......
   <h2>Github stats</h2>
 <img align="right" width=45% alt="VRDS sticker pack" title="Stickers yayy !" src="Images/Stickers_for_Github_readme.png">
 
-  <a href="https://github.com/VinayakRaoDikshit"><img width=50% title="Overall Stats" alt="Github stat card" src="https://github-readme-stats.vercel.app/api?username=VinayakRaoDikshit&showicons=true&theme=transparent&title_color=680aff&text_color=fffb00&border_color=fffb00&bg_color=141321&border_radius=3.5"></a>
+<!--  <a href="https://github.com/VinayakRaoDikshit"><img width=50% title="Overall Stats" alt="Github stat card" src="https://github-readme-stats.vercel.app/api?username=VinayakRaoDikshit&showicons=true&theme=transparent&title_color=680aff&text_color=fffb00&border_color=fffb00&bg_color=141321&border_radius=3.5"></a> -->
   
  <a href="https://github.com/VinayakRaoDikshit"><img width=50% title="Commit stats" alt="Commit Stat card" src="https://streak-stats.demolab.com/?user=VinayakRaoDikshit&hide_border=false&border=fffb00&background=141321&fire=fffb00&sideNums=fffb00&stroke=fffb00&dates=fffb00&currStreakNum=fffb00&ring=680aff&currStreakLabel=680aff&sideLabels=680aff"></a> 
 
