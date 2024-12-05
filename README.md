@@ -8,7 +8,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;<!-- for spacing between icons -->
   <a href="https://www.youtube.com/@VinayakRaoDikshit"><img width="32px" alt="VRDs Youtube" title="Youtube" src="https://www.iconsdb.com/icons/preview/violet/youtube-5-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.pinterest.com/Vinayak_RD006"><img width="32px" alt="VRDs Pinterest" title="Pinterest" src="https://icones.pro/wp-content/uploads/2021/07/logo-pinterest-violet.png"/></a>
+  <a href="https://pin.it/3ILeZgzOQ"><img width="32px" alt="VRDs Pinterest" title="Pinterest" src="https://icones.pro/wp-content/uploads/2021/07/logo-pinterest-violet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://teamtrees.org/"><img width="32px" alt="Donate" title="Buy me a coffee :P" src="https://img.freepik.com/free-icon/tea_318-614737.jpg"/></a>
   <H1 align="center"> Greetings ! 👋</H1> 
