@@ -4,9 +4,9 @@
   -->
  <a href="https://www.linkedin.com/in/vinayak-rao-dikshit-199657245"><img width="1250" height="510" alt="VRDS prof" title="VRDs Profile" src="Images/Matrix Rain for Github.gif"/></a>
 <p align="center">
-  <a href="https://discordapp.com/users/760758770400886796"><img width="32px" alt="Discord" title="Discord" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSya3aliv7OzUbxHSf_OrK7SCEH4MShJzMQYSxW1r0WA&s"/></a>
+  <a href="https://discordapp.com/users/760758770400886796"><img width="32px" alt="Discord" title="Discord" src="https://img.icons8.com/fluent-systems-filled/512/7950F2/discord-logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;<!-- for spacing between icons -->
-  <a href="https://www.youtube.com/@VinayakRaoDikshit"><img width="32px" alt="VRDs Youtube" title="Youtube" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR42_wiTV0PcPl364ctHgFPr0eqWGujaM5DCaJe0XmVA&s"/></a>
+  <a href="https://www.youtube.com/@VinayakRaoDikshit"><img width="32px" alt="VRDs Youtube" title="Youtube" src="https://www.iconsdb.com/icons/preview/violet/youtube-5-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="www.pinterest.com/Vinayak_RD006"><img width="32px" alt="VRDs Pinterest" title="Pinterest" src="https://icones.pro/wp-content/uploads/2021/07/logo-pinterest-violet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,7 +20,7 @@
   <!--   ![Visitor Count](https://profile-counter.glitch.me/VinayakRaoDikshit/count.svg)  -->
    
   
-I am an aspiring computer science engineer, currently in my prefinal year. I have a vehement passion to customise and tinker with technology be it software or hardware :monocle_face:. Always on the voyage to explore :surfing_man: new stuff in the Science and Technology domain. Looking forward to add value :smile: and give back to the community here on GitHub :v:. 
+I am a computer science engineer, graduated in 2024. I have a vehement passion to customise and tinker with technology be it software or hardware :monocle_face:. Always on the voyage to explore :surfing_man: new stuff in the Science and Technology domain. Looking forward to add value :smile: and give back to the community here on GitHub :v:. 
   
 More about me :man_technologist: ......  
 
@@ -30,7 +30,7 @@ More about me :man_technologist: ......
 
  <img alt="gold" title="coin" src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.gif" width="25"> I am ambitious about learning MLOps. Would love to work on related projects sometime soon.
   
-<img alt="gold" title="coin" src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.gif" width="25"> Wanna play some duos ? Catch me playing Fortnite :joystick: @ *VRDPumpkinLemons*.  
+<img alt="gold" title="coin" src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.gif" width="25">~~Wanna play some duos ? Catch me playing Fortnite :joystick: @ *VRDPumpkinLemons*.~~
 
 <br/>
 
